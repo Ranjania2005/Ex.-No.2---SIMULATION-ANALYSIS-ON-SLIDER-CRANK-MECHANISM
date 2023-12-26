@@ -20,7 +20,7 @@
 ###  Configuration diagram
 ###  Assume scale 1:10
 ###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
+###  2. At C, draw CB of length 20 mm inclined at 1200
 ###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
